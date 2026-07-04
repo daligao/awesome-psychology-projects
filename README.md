@@ -99,3 +99,5 @@ Other things related to psychology projects.
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+- [Psychology Laws Awesome](https://github.com/daligao/psychology-laws-awesome) - Interactive open-source resource for psychology laws and cognitive biases.
